@@ -11,22 +11,22 @@ This is to be used to learn Git-based development
 
 
 # My Introduction
-My name is Anthony Foo Jia Ye and I'm 13 Years Old.
+My name is Jayden Tan Jun Ren and I'm 13 Years Old. For more information, visit ->https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
 ## What you need
 
 
-> A Laptop
+> Brain
 
 
-> An Internet Connection
+> Metabolism
 
 
-> Power Supply
+> Eyes
 
 
-> A Functioning Brain To Be Exact
+> Hands to type
 
 
 ### This is Heading 3
